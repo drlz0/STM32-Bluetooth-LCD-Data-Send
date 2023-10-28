@@ -1,0 +1,2 @@
+../Core/Src/msg_handler.c:19:6:send_to_uart	1
+../Core/Src/msg_handler.c:34:6:display_msg_on_lcd	4
