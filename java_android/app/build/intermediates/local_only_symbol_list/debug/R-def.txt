@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id BT_devices_txt
+id Paired_text
+id connect_b_id
+id edit_text_1_id
+id edit_text_2_id
+id search_b_id
+id send_b_id
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string connect_k
+string paired_k
+string paired_kk
+string send_button_str
+string text_view_devices
+style Theme.Send_text_BT
+xml backup_rules
+xml data_extraction_rules
